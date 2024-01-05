@@ -1,11 +1,12 @@
 repo_name: mollypi/github3.py
 report_id: 5f52f2c7a5640278a8070ab43be2fa63
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-15T05:32:36+00:00'
+timestamp: '2024-01-05T08:41:59+00:00'
 requested_by: staticdev
 provider: github
 branch: main
-detected_tools_count: 9
+detected_tools_count: 10
 tools:
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/mollypi/github3.py
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mollypi/github3.py
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -34,7 +37,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
-  detection_source: ".github/workflows/labeler.yml"
+  detection_source_url: https://github.com/mollypi/github3.py/blob/main/.github/workflows/build.yml
+  detection_source: ".github/workflows/build.yml"
   last_updated_by: staticdev
   last_updated_on: 2022-08-13 17:00:21.000000000 Z
 - name: PyPI
@@ -45,6 +49,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/mollypi/github3.py/blob/main/docs/source/requirements.txt
   detection_source: docs/source/requirements.txt
   last_updated_by: Ian Stapleton Cordasco
   last_updated_on: 2021-11-01 11:36:33.000000000 Z
@@ -58,7 +63,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png
-  detection_source_url: dev-requirements.txt
+  detection_source_url: https://github.com/mollypi/github3.py/blob/main/dev-requirements.txt
   detection_source: dev-requirements.txt
   last_updated_by: Jesse Keating
   last_updated_on: 2017-12-14 04:30:26.000000000 Z
@@ -71,6 +76,7 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/mollypi/github3.py
   detection_source: Repo Metadata
 - name: Sphinx
   description: Open source full text search server, designed from the ground up with
@@ -81,6 +87,7 @@ tools:
   category: Application Utilities
   sub_category: Search Engines
   image_url: https://img.stackshare.io/service/1598/TtqoAo1V.png
+  detection_source_url: https://github.com/mollypi/github3.py/blob/main/docs/source/requirements.txt
   detection_source: docs/source/requirements.txt
   last_updated_by: Ian Stapleton Cordasco
   last_updated_on: 2021-11-01 11:36:33.000000000 Z
@@ -91,6 +98,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8480/LI68uG-2_normal.jpg
+  detection_source_url: https://github.com/mollypi/github3.py/blob/main/docs/source/requirements.txt
   detection_source: docs/source/requirements.txt
   last_updated_by: Ian Stapleton Cordasco
   last_updated_on: 2021-11-01 11:36:33.000000000 Z
@@ -101,6 +109,20 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4825/OhsWgbsr_normal.png
+  detection_source_url: https://github.com/mollypi/github3.py/blob/main/dev-requirements.txt
   detection_source: dev-requirements.txt
   last_updated_by: Ian Cordasco
   last_updated_on: 2013-09-21 15:05:04.000000000 Z
+- name: docutils
+  description: Docutils -- Python Documentation Utilities
+  package_url: https://pypi.org/project/docutils
+  license: Unlicense,Python-2.0,BSD-2-Clause,CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19874/default_7ed3c4ccf2a3218ae3655165b980bd4a90a445dc.png
+  detection_source_url: https://github.com/mollypi/github3.py/blob/main/docs/source/requirements.txt
+  detection_source: docs/source/requirements.txt
+  last_updated_by: Ian Stapleton Cordasco
+  last_updated_on: 2021-11-01 11:36:33.000000000 Z
