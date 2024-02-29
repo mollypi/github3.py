@@ -4,10 +4,10 @@
 mollypi/github3.py is built on the following main stack:
 
 - [Python](https://www.python.org) – Languages
-- [Sphinx](http://sphinxsearch.com/) – Search Engines
-- [Jupyter](http://jupyter.org) – Data Science Notebooks
-- [pytest](http://pytest.org/latest/) – Testing Frameworks
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [pytest](http://pytest.org/latest/) – Testing Frameworks
+- [Jupyter](http://jupyter.org) – Data Science Notebooks
+- [Sphinx](http://sphinxsearch.com/) – Search Engines
 
 Full tech stack [here](/techstack.md)
 
@@ -18,10 +18,10 @@ Full tech stack [here](/techstack.md)
 mollypi/github3.py is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1598/TtqoAo1V.png' alt='Sphinx'/> [Sphinx](http://sphinxsearch.com/) – Search Engines
-- <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
-- <img width='25' height='25' src='https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png' alt='pytest'/> [pytest](http://pytest.org/latest/) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png' alt='pytest'/> [pytest](http://pytest.org/latest/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
+- <img width='25' height='25' src='https://img.stackshare.io/service/1598/TtqoAo1V.png' alt='Sphinx'/> [Sphinx](http://sphinxsearch.com/) – Search Engines
 
 Full tech stack [here](/techstack.md)
 
@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mollypi/github3.py](https://github.com/mollypi/github3.py)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|10<br/>Tools used|01/05/24 <br/>Report generated|
+|10<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
